@@ -4,13 +4,13 @@ return(
 <tr className="table">            
 
                     
-                    <td scope="col"><input type="checkbox"/></td>
-                    <td scope="col">{invoice}</td>
-                    <td scope="col">{date}</td>
-                    <td scope="col">{customer}</td>
-                    <td scope="col">{payable_amount}</td>
-                    <td scope="col">{paid_amount}</td>
-                    <td scope="col">{Due}</td>
+                    <th scope="col"><input type="checkbox"/></th>
+                    <th scope="col">{invoice}</th>
+                    <th scope="col">{date}</th>
+                    <th scope="col">{customer}</th>
+                    <th scope="col">{payable_amount}</th>
+                    <th scope="col">{paid_amount}</th>
+                    <th scope="col">{Due}</th>
                  
                   
                   
